@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office temporary lock files
+~$*.docx
+~$*.doc
+~$*.pptx
+*.tmp
+
+# Editor
+.vscode/
+.idea/

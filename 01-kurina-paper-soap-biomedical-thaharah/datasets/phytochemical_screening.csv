@@ -1,0 +1,6 @@
+compound_class,reagent_or_method,standard_positive_indicator,observed_reaction,screening_result
+Saponin,"Aqueous extraction + Vigorous shaking","Stable persistent foam (>= 30s)","Stable dense foam formed for > 30 seconds",Positive
+Polyphenol,"FeCl3 10% in distilled water","Color shift to dark blue/green/black","Precipitation and color change to deep black",Positive
+Flavonoid,"Extract + Concentrated HCl + Mg powder","Yellow-orange to deep red coloration","Intense orange-red solution shift",Positive
+Tannin,"FeCl3 test for phenolic hydroxyl groups","Greenish-black condensation color","Dark greenish-black coloration (Condensed tannin)",Positive
+Steroid,"Liebermann-Burchard (CHCl3 + Acetic Anhydride + H2SO4)","Brownish/violet/green interfacial ring","Distinct violet/green ring at interface",Positive

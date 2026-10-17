@@ -1,0 +1,4 @@
+sample_code,sample_name,concentration,target_pathogen,inhibition_diameter_mm,activity_classification
+CTRL_POS,"Commercial Antibacterial Soap",Standard,"Staphylococcus aureus",2.1,Weak
+KURINA,"Kurina Paper Soap Formulation",100 ppm,"Staphylococcus aureus",7.4,Moderate
+CTRL_NEG,"Distilled Water (Aquades)",Blank,"Staphylococcus aureus",0.0,Inactive

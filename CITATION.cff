@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you cite or utilize datasets and methodologies from this archive, please cite as follows:"
+title: "Academic & Scientific Research Archive: Applied Biomedical, Phytotherapy, Nanotechnology, and Sharia Interdisciplinary Studies"
+authors:
+  - family-names: "Nabila"
+    given-names: "Muhammad Arjun"
+    affiliation: "UPN Veteran Yogyakarta & STAI Terpadu Yogyakarta"
+    email: "arjunjun238@gmail.com"
+  - family-names: "Saputro"
+    given-names: "Erix Misbahuddin Tri"
+    affiliation: "MAN 2 Kudus Research Division"
+date-released: 2024-02-15
+repository-code: "https://github.com/junnss238/academic-research-archive"
+keywords:
+  - "biomedical science"
+  - "phytochemistry"
+  - "thaharah"
+  - "islamic jurisprudence"
+  - "kaolin clay"
+  - "carbon dots"
+  - "nanotechnology"
+  - "staphylococcus aureus"
