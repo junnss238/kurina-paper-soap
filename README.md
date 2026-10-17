@@ -9,7 +9,7 @@
 > **Full Academic Title:** *Kurina Paper Soap: Inovasi Sabun Kertas dengan Ekstrak Pelepah Daun Pisang Karmilin dan Daun Rambutan sebagai Sabun Pensuci Najis sekaligus Penghambat Bakteri Staphylococcus aureus*  
 > **Authors:** Muhammad Arjun Nabila (NISN: 0052620692), Erix Misbahuddin Tri Saputro (NISN: 0053629063)  
 > **Affiliation:** Madrasah Aliyah Negeri (MAN) 2 Kudus — Academic Research Program  
-> **Academic Milestone:** Senior High School Graduation Thesis (Tugas Akhir Madrasah TP 2023/2024) & Lustrum Biotechnology UNDIP Selection  
+> **Academic Milestone:** Senior High School Graduation Thesis (Tugas Akhir Madrasah TP 2023/2024)  
 
 ---
 
@@ -71,8 +71,7 @@ kurina-paper-soap/
 │   ├── antibacterial_inhibition.csv       # Staphylococcus aureus disk diffusion zones
 │   └── organoleptic_survey_results.csv    # 25-respondent hedonic sensory scores
 ├── docs/
-│   ├── KTI_Kurina_Paper_Soap_MAN2Kudus.docx  # Full defended thesis manuscript
-│   └── Lustrum_Bioteknologi_UNDIP_Paper.pdf  # UNDIP competition paper submission
+│   └── KTI_Kurina_Paper_Soap_MAN2Kudus.docx  # Full defended thesis manuscript
 ├── CITATION.cff                           # Academic citation metadata
 ├── LICENSE                                # Creative Commons Attribution 4.0
 └── README.md
